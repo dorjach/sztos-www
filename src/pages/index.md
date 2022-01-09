@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Nasze działania
-image: /img/grafika_www.png
+image: /img/grafika_www-2_www.png
 heading: Nasze działania
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
