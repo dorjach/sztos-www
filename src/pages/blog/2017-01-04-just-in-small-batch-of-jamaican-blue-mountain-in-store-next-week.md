@@ -16,7 +16,7 @@ description: >-
   · Lepsze poznanie natury swojego umysłu?
 
   · Dowiedzenie się czegoś więcej o sobie
-featuredpost: true
+featuredpost: false
 featuredimage: /img/241777712_438411304221733_1839024520110113727_n.jpg
 tags:
   - las
