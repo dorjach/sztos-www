@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Misja Zostań Psychonautą - Moc Zmysłów
-date: 2020-11-27T15:04:10.000Z
+date: 2021-11-27T15:04:10.000Z
 description: >-
   W sobotę wyruszyliśmy z podopiecznymi Towarzystwo Przyjaciół Dzieci w "Misję:
   Zostań Psychonautą"!🧠❤ Naszym celem było odkryć moc zmysłów, które rozwijają
