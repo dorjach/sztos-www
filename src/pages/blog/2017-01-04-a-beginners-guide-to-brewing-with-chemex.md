@@ -25,6 +25,4 @@ tags:
   - impro
   - uważność
 ---
-![Warsztaty Improwizacji Teatralnej](/img/259588950_269442135231543_2556250508892277452_n.jpg)
-
-Razem z grupą fantastycznej młodzieży poznawaliśmy tajniki impro. Uczestnicy naszych pierwszych warsztatów spisali się na medal. W atmosferze wzajemnego szacunku i akceptacji dla wszelkich pojawiających się pomysłów, nagraliśmy improwizowaną bajkę, którą zaprezentujemy Wam w najbliższych tygodniach.
+![Razem z grupą fantastycznej młodzieży poznawaliśmy tajniki impro. Uczestnicy naszych pierwszych warsztatów spisali się na medal. W atmosferze wzajemnego szacunku i akceptacji dla wszelkich pojawiających się pomysłów](/img/259588950_269442135231543_2556250508892277452_n.jpg)
