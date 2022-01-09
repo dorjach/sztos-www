@@ -21,3 +21,5 @@ tags:
   - zmysły
 ---
 ![uważność zmysły](/img/262316543_275582441284179_7341232213998060993_n.jpg)
+
+W sobotę wyruszyliśmy z podopiecznymi Towarzystwo Przyjaciół Dzieci w "Misję: Zostań Psychonautą"!🧠❤ Naszym celem było odkryć moc zmysłów, które rozwijają naszą uważność - umiejętność wspierającą w radzeniu sobie w codzienności! 👅👀👣👃👂Podczas uważnych podchodów uczestnicy wyostrzyli zmysły na otaczający świat, ale także mieli szansę lepiej poznać siebie i swoje supermoce 💪. Dodatkową atrakcją był pierwszy śnieżny dzień ❄️☃️
