@@ -7,7 +7,7 @@ subheading: .
 mainpitch:
   title: Kim jesteśmy?
   description: >-
-    Cześć! Jesteśmy SZTOS – Stowarzyszenie zainteresowanych troską o siebie. Co
+    Cześć! Jesteśmy SZTOS – Stowarzyszenie Zainteresowanych Troską o Siebie. Co
     nas do Was sprowadza? Ciekawość! Jesteśmy bardzo zainteresowane tym, co
     możemy z Wami stworzyć. Ile dobrej energii możemy razem wyprodukować. 
 
@@ -19,11 +19,11 @@ intro:
   blurbs:
     - image: /img/logo-zostan-psychonauta-wybrane_obszar-roboczy-1.jpg
       text: Psychoedukacja i mindfulness
-    - image: /img/maska1.png
+    - image: /img/impro.png
       text: Improwizacja teatralna
-    - image: /img/kamienie2.png
+    - image: /img/joga.png
       text: Praca z ciałem
-    - image: /img/ksiazka.png
+    - image: /img/sztuka.png
       text: Kultura i sztuka
   heading: Czym się zajmujemy
   description: Cześć! Jesteśmy SZTOS – Stowarzyszenie zainteresowanych troską o
