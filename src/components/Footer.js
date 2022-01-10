@@ -89,7 +89,7 @@ const Footer = class extends React.Component {
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a> */}
-                <a title="instagram" href="https://www.instagram.com/sztos2022/">
+                <a title="instagram" href="https://www.instagram.com/sztos_org/">
                   <img
                     src={instagram}
                     alt="Instagram"
