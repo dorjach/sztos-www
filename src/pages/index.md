@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Nasze działania
-image: /img/grafika_www_www.png
+image: /img/grafika_www_2_www.jpg
 heading: Nasze działania
 subheading: .
 mainpitch:
